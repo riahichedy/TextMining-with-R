@@ -3,4 +3,4 @@ These are different scripts in R, the free software designed for statistical com
 
 These are some results (for the complete works of Shakespeare):
 
-![Alt text](http://full/path/to/img.jpg "Optional title")
+![](https://github.com/riahichedy/TextMining-with-R/blob/master/results_sh.png)
